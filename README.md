@@ -20,10 +20,10 @@ Download the hostdiscover.py file from github
 
 ## Usage
 
-To run the Input Aggregator, use the following command:
+To run the Host Discovery Tool, use the following command:
 
 ```bash
-python3 inputaggregator.py
+python3 hostdiscover.py
 ```
 
 Have fun!
